@@ -1,0 +1,14 @@
+2021-05-24 20:35:46 INFO  LogResult:58 - Loaded Config Properties
+  2021-05-24 20:35:46 INFO  LogResult:74 - Loaded OR Properties
+  2021-05-24 20:35:52 INFO  LogResult:107 - Invoked Webiste http://www.zoho.com/
+  2021-05-24 20:35:53 INFO  LogResult:122 - Clicking on loginlink_CSS
+  2021-05-24 20:35:53 INFO  LogResult:134 - Typed in username_CSS as test.webelement@gmail.com
+  2021-05-24 20:35:54 INFO  LogResult:122 - Clicking on nextbtn_CSS
+  2021-05-24 20:35:54 INFO  LogResult:134 - Typed in password_CSS as 12345678@zoho
+  2021-05-24 20:35:54 INFO  LogResult:122 - Clicking on loginbtn_CSS
+  2021-05-24 20:36:05 INFO  LogResult:122 - Clicking on campaigns_CSS
+  2021-05-24 20:36:07 INFO  LogResult:122 - Clicking on campaigns_CSS
+  2021-05-24 20:36:09 INFO  LogResult:122 - Clicking on addNewContact_CSS
+  2021-05-24 20:36:09 INFO  LogResult:122 - Clicking on addSingleContactBtn_CSS
+  2021-05-24 20:36:11 INFO  LogResult:134 - Typed in contactEmail_CSS as abc@gmail.com
+  
