@@ -19,6 +19,6 @@ public class LoginTest {
 	LoginPage login= home.goToLogin();	
 	ZohoAppPage zp= login.doLogin(data.get("username"), data.get("password"));
 	
-	Assert.fail("Login Test Failed");
+	
 	}
 }
